@@ -40,7 +40,7 @@ This frontend application is designed to help users like Eric manage and track f
 
 2. Navigate to project directory
    ```bash
-   cd expense-tracker
+   cd e-wallet
    ```
 
 3. Install dependencies
@@ -62,12 +62,6 @@ This frontend application is designed to help users like Eric manage and track f
 - Modify `config.json` to customize application settings
 - Set up database connections
 - Configure notification preferences
-
-## Security Considerations
-- Use secure authentication
-- Encrypt sensitive financial data
-- Implement role-based access control
-
 
 ## License
 [MIT License](https://opensource.org/licenses/MIT)
