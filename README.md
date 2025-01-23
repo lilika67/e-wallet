@@ -1,4 +1,4 @@
-##e-wallet Application
+## E-wallet Application
 
 ## Project Overview
 
